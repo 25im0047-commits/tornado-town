@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-06 JST",
+  "build": "passed",
+  "tests": {
+    "passed": 10,
+    "failed": 0
+  },
+  "thresholds": [
+    0,
+    50,
+    180,
+    520,
+    1250,
+    2600
+  ],
+  "browserErrors": 0,
+  "files": {
+    "TORNADO-TOWN.html": {
+      "bytes": 779319,
+      "sha256": "68f89bbc2ff2d17f62e5465ca24c2804acef7f1413c0687a25ebd5f9c894349e"
+    },
+    "dist/index.html": {
+      "bytes": 779319,
+      "sha256": "68f89bbc2ff2d17f62e5465ca24c2804acef7f1413c0687a25ebd5f9c894349e"
+    },
+    "src/core.mjs": {
+      "bytes": 4802,
+      "sha256": "64e04d938039f1c9c5a5dfa7ff8548f119630e62a3838f4a1f4f5b98c338ccb3"
+    },
+    "src/main.js": {
+      "bytes": 39586,
+      "sha256": "0fcc4adf3fe19f71c2835a5fb7ad722b53c9879dc8016ff242dc502e369266b9"
+    },
+    "tests/camera.test.mjs": {
+      "bytes": 1707,
+      "sha256": "8e002bf1fc0894de1f904c8f17a1ac58d6afe9ab8a10ad5457fe805aa50e7631"
+    }
+  }
+}

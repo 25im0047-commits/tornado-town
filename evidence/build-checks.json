@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-06 JST",
+  "checks": {
+    "build": "passed",
+    "unitAndDeliveryTests": {
+      "passed": 6,
+      "failed": 0
+    }
+  },
+  "files": {
+    "TORNADO-TOWN.html": {
+      "bytes": 758321,
+      "sha256": "ea8cc072d34109aa9d74d55bc1e4ddf60ee1ba4c71a8a19efaf7f486cf902846"
+    },
+    "dist/index.html": {
+      "bytes": 758321,
+      "sha256": "ea8cc072d34109aa9d74d55bc1e4ddf60ee1ba4c71a8a19efaf7f486cf902846"
+    },
+    "vendor/three.min.js": {
+      "bytes": 701269,
+      "sha256": "17570f9f6e8872028c0e9321d9a9ea123b4610608db2f7d7b5d352a019a86599"
+    },
+    "src/core.mjs": {
+      "bytes": 3795,
+      "sha256": "32991ba16337cbb4482039f0f45440edaaeba4461dcae30bddbcab20466a076a"
+    },
+    "src/main.js": {
+      "bytes": 37827,
+      "sha256": "dd9acbfb8b92fd412c732ceacb32481c58738c3cab8b90e03b6f27fa57a2b2a5"
+    },
+    "src/style.css": {
+      "bytes": 10255,
+      "sha256": "f15ef0de613d2b0c32c36f3276fe2b19002c13ebdcaab17b0cf992a56a477378"
+    },
+    "build.mjs": {
+      "bytes": 1198,
+      "sha256": "112798d1eeb8b3e0857842fcd98a19ba9a27c1627b03434694ad71eb76492951"
+    }
+  }
+}

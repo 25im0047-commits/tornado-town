@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-06 JST",
+  "checks": {
+    "keyboardMovement": true,
+    "automaticAbsorption": true,
+    "growthToLevel6": true,
+    "landmarkVictory": true,
+    "freePlay": true,
+    "pauseStable": true,
+    "restart": true,
+    "pointerDrag": true,
+    "soundToggle": true
+  },
+  "viewportEvidence": [
+    {
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "width": 390,
+      "height": 844
+    },
+    {
+      "width": 527,
+      "height": 779
+    }
+  ],
+  "finalWin": {
+    "absorbed": "82",
+    "drawCalls": "68",
+    "engine": "three.js r180",
+    "flying": "9",
+    "frameMs": "10.82",
+    "level": "6",
+    "phase": "ended",
+    "remaining": "131.70",
+    "renderMs": "1.20",
+    "triangles": "146650",
+    "x": "1.06",
+    "xp": "1120",
+    "z": "-5.66"
+  },
+  "finalFreePlay": {
+    "absorbed": "154",
+    "drawCalls": "83",
+    "engine": "three.js r180",
+    "flying": "24",
+    "frameMs": "9.16",
+    "level": "6",
+    "phase": "free",
+    "remaining": "131.70",
+    "renderMs": "1.10",
+    "triangles": "150230",
+    "x": "17.71",
+    "xp": "2965",
+    "z": "-60.63"
+  },
+  "freePlayToast": {
+    "text": "時計塔をのみこんだ！街のいちばん大きな目標を達成",
+    "visible": false
+  },
+  "drag": {
+    "before": {
+      "absorbed": "3",
+      "drawCalls": "63",
+      "engine": "three.js r180",
+      "flying": "3",
+      "frameMs": "8.43",
+      "level": "1",
+      "phase": "playing",
+      "remaining": "149.72",
+      "renderMs": "0.90",
+      "triangles": "143212",
+      "x": "-61.00",
+      "xp": "5",
+      "z": "61.00"
+    },
+    "after": {
+      "absorbed": "3",
+      "drawCalls": "62",
+      "engine": "three.js r180",
+      "flying": "3",
+      "frameMs": "8.43",
+      "level": "1",
+      "phase": "playing",
+      "remaining": "149.26",
+      "renderMs": "0.60",
+      "triangles": "143188",
+      "x": "-60.96",
+      "xp": "5",
+      "z": "59.92"
+    }
+  },
+  "errors": [],
+  "limitations": [
+    "Native file URL opening blocked by browser policy; HTTP preview tested",
+    "Physical touch devices and native browsers not tested",
+    "Audio listening quality not evaluated"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-06 JST",
+  "near": {
+    "absorbed": "11",
+    "audioEnabled": "true",
+    "audioState": "running",
+    "audioVoices": "3",
+    "cameraDistance": "26.05",
+    "cameraPitch": "26.0",
+    "combo": "11",
+    "drawCalls": "70",
+    "engine": "three.js r180",
+    "fever": "0.00",
+    "feverCount": "0",
+    "flying": "10",
+    "frameMs": "8.52",
+    "level": "1",
+    "maxCombo": "11",
+    "phase": "playing",
+    "remaining": "148.10",
+    "renderMs": "1.30",
+    "triangles": "145148",
+    "x": "-56.64",
+    "xp": "21",
+    "z": "45.83"
+  },
+  "errors": []
+}
